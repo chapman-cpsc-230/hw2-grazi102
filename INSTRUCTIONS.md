@@ -12,7 +12,7 @@ Write a program that does the following
  and a natural number, which we will call `n`.
 * Compute the sum `1 + b + b^2 + ... + b^n`.
 * Print the result of this computation
-* Print the `b^(n+1)/(b-1)`.
+* Print the value `b^(n+1)/(b-1)`.
 
 Submit this program as `sum_powers.py`
 
